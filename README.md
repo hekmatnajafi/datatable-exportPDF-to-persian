@@ -1,4 +1,1 @@
-# datatable-exportPDF-to-persian
-export Persian data with DataTable using pdfMake. as pdfmake is not supporting Persian, I added custom fonts (Estedad) to it, now it is working.
-
-Here I used Estedad fonts,you are free to change :) 
+by default pdfMake does not support exporting pdf in Persian language, here is a customized version which is working fine and exports pdf in Persian. I used Estedad font, you are free to change.
